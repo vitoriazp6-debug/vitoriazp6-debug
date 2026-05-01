@@ -1,5 +1,5 @@
 "# vitoriazp6-debug" 
-# Hi there, I'm Nome vitória 👋
+# olá, meu nome é vitória 👋
 
 💻 apredendo programar 
 - Cursado a noite.

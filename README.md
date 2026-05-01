@@ -7,10 +7,10 @@
 - musica,teatro,informatica 
 
 **🎯 Interests**  
-- filmes/dormir
-- ficar em casa
-- irritar as pessoas
-- mexer no celular
+- filmes/dormir.
+- ficar em casa.
+- irritar as pessoas.
+- mexer no celular.
 
 
 **🧰 Current stack**  

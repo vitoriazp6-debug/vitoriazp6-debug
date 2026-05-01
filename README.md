@@ -1,8 +1,8 @@
 "# vitoriazp6-debug" 
 # Hi there, I'm Nome vitória 👋
 
-**💻 apredendo programar**  
-- Cursado a noite**.
+💻 apredendo programar 
+- Cursado a noite.
 - Born in Brazil 🇧🇷.
 - musica,teatro,informatica 
 
